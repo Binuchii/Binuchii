@@ -1,11 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Albin Binu</h1>
-<h3 align="center">2nd Year Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binuchii&label=Profile%20views&color=0e75b6&style=flat" alt="binuchii" /> </p>
 
-- 📫 How to reach me **albinb2k04@gmail.com**
+- 📫 How to reach me **a.binu1@universityofgalway.ie**
 
 - ⚡ Fun fact **I love video games**
 
